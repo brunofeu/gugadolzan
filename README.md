@@ -68,7 +68,7 @@
 
 <hr />
 
-<a href=:"https://github.com/gugadolzan#contact-me">
+<a href="https://github.com/gugadolzan#contact-me">
   <img align="left" src="https://media.giphy.com/media/GbxZdp9V9TojWhTFeK/giphy.gif" width="64" />
 </a>
 

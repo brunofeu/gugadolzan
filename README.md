@@ -24,8 +24,8 @@
 
 ```javascript
   aboutMe = {
-    ageWhenStartedCoding: 20,
-    askMeAbout: ['Web Development', 'Investments', 'Red Hot Chili Peppers'],
+    'Age when stared coding': 20,
+    interests: ['Web Development', 'Investments', 'Red Hot Chili Peppers'],
   }
 ```
 

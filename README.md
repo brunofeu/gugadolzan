@@ -1,7 +1,6 @@
-<h2>
-  Hello world!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
+<img align="right" src="https://media.giphy.com/media/zQZsoCpu3Ipq0/giphy.gif" width="100">
+
+# Hello world!
 
 <div align="center">
 
@@ -12,7 +11,7 @@
   ---
 
   <a href="https://github.com/gugadolzan">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=gugadolzan&count_private=true&hide=issues&hide_rank=true&include_all_commits=true&show_icons=true&theme=react" />
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=gugadolzan&count_private=true&custom_title=GitHub Stats&hide=issues&hide_rank=true&include_all_commits=true&show_icons=true&theme=react" />
   </a>
   <a href="https://github.com/gugadolzan">
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gugadolzan&layout=compact&theme=react" />

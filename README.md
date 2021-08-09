@@ -1,6 +1,6 @@
 <img align="right" src="https://media.giphy.com/media/zQZsoCpu3Ipq0/giphy.gif" width="80">
 
-# Hello world!
+<h1>Hello world!</h1>
 
 <div align="center">
   
@@ -17,7 +17,7 @@
   }
 ```
 
----
+<hr />
 
 <div align="center">
   
@@ -32,4 +32,4 @@
 
 <br />
 
-*Disclaimer: 'Most Used Languages' does not indicate my skill level or anything like that, it's just a metric of which languages I have the most code on GitHub. Powered by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats).*
+<i>Disclaimer: 'Most Used Languages' does not indicate my skill level or anything like that, it's just a metric of which languages I have the most code on GitHub. Powered by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats).</i>

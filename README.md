@@ -1,4 +1,6 @@
-<img align="right" src="https://media.giphy.com/media/zQZsoCpu3Ipq0/giphy.gif" width="80" />
+<a href="https://en.wikipedia.org/wiki/Stitch_(Lilo_%26_Stitch)">
+  <img align="right" src="https://media.giphy.com/media/zQZsoCpu3Ipq0/giphy.gif" width="80" />
+</a>
 
 <h1>Hello world!</h1>
 
@@ -17,7 +19,11 @@
 
 <hr />
 
-<h2><img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40" /> Language and tools</h2>
+<h2>
+  <a href="https://github.com/gugadolzan#-language-and-tools">
+    <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40" />
+  <a/> Language and tools
+</h2>
 <div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
     <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/html5/html5-original.svg" width="40px" />
@@ -62,7 +68,9 @@
 
 <hr />
 
-<img align="left" src="https://media.giphy.com/media/GbxZdp9V9TojWhTFeK/giphy.gif" width="64" />
+<a href=:"https://github.com/gugadolzan#contact-me">
+  <img align="left" src="https://media.giphy.com/media/GbxZdp9V9TojWhTFeK/giphy.gif" width="64" />
+</a>
 
 <div align="center">
   <h2>Contact me</h2>

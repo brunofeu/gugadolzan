@@ -13,7 +13,7 @@
 ```javascript
   aboutMe = {
     'Age when stared coding': 20,
-    interests: ['Web Development', 'Investments', 'Red Hot Chili Peppers'],
+    Interests: ['Web Development', 'Investments', 'Red Hot Chili Peppers'],
   }
 ```
 

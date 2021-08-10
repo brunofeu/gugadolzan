@@ -17,6 +17,12 @@
   }
 ```
 
+<p>
+  Looking for an opportunity to develop myself professionally. Passionate about finance, technology and programming. I hope to be able to establish an integration between programming and investing.
+
+  Specifically curious about investing, I seek knowledge from references in this area.
+</p>
+
 <hr />
 
 <h2>

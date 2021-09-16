@@ -12,7 +12,7 @@
 
 ```javascript
   aboutMe = {
-    'Age when stared coding': 20,
+    'Age when started coding': 20,
     Interests: ['Web Development', 'Investments', 'Red Hot Chili Peppers'],
   }
 ```

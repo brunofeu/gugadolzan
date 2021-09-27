@@ -85,6 +85,13 @@
       width="40px"
     />
   </a>
+  <a href="https://reactjs.org/">
+    <img
+      alt="React badge"
+      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg"
+      width="40px"
+    />
+  </a>
   <a href="https://getbootstrap.com/docs/4.1/getting-started/introduction">
     <img
       alt="Bootstrap badge"

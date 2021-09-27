@@ -47,7 +47,7 @@
       width="40"
     />
   </a>
-  Language and tools
+  Languages and tools
 </h2>
 <div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">

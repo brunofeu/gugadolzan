@@ -49,11 +49,12 @@
   </a>
   Languages and tools
 </h2>
+
 <div align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp">
     <img
-      alt="HTML5 badge"
-      src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/html5/html5-original.svg"
+      alt="C# badge"
+      src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"
       width="40px"
     />
   </a>
@@ -61,6 +62,20 @@
     <img
       alt="CSS3 badge"
       src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/css3/css3-original.svg"
+      width="40px"
+    />
+  </a>
+  <a href="https://git-scm.com/doc">
+    <img
+      alt="Git badge"
+      src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/git/git-original.svg"
+      width="40px"
+    />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
+    <img
+      alt="HTML5 badge"
+      src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/html5/html5-original.svg"
       width="40px"
     />
   </a>
@@ -78,13 +93,6 @@
       width="40px"
     />
   </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp">
-    <img
-      alt="C# badge"
-      src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"
-      width="40px"
-    />
-  </a>
   <a href="https://reactjs.org/">
     <img
       alt="React badge"
@@ -92,24 +100,10 @@
       width="40px"
     />
   </a>
-  <a href="https://getbootstrap.com/docs/4.1/getting-started/introduction">
+  <a href="https://redux.js.org/">
     <img
-      alt="Bootstrap badge"
-      src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain.svg"
-      width="40px"
-    />
-  </a>
-  <a href="https://material-ui.com">
-    <img
-      alt="Material-UI badge"
-      src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/materialui/materialui-original.svg"
-      width="40px"
-    />
-  </a>
-  <a href="https://git-scm.com/doc">
-    <img
-      alt="Git badge"
-      src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/git/git-original.svg"
+      alt="Redux badge"
+      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/redux/redux-original.svg"
       width="40px"
     />
   </a>

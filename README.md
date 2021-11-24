@@ -47,7 +47,7 @@
       width="40"
     />
   </a>
-  Languages and tools
+  Main languages and tools
 </h2>
 
 <div align="center">

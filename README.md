@@ -7,9 +7,7 @@
   />
 </a>
 
-<h1>
-  <code> Hello, World! </code>
-</h1>
+# ```Hello, World!```
 
 <div align="center">
   <a href="https://gugadolzan.github.io/">
@@ -21,23 +19,17 @@
 </div>
 
 ```javascript
-  aboutMe = {
-    'Age when started coding': 20,
-    Interests: ['Web Development', 'Investments', 'Red Hot Chili Peppers'],
-  }
+const i     = {}
+i.am        = 'a web developer';
+i.workWith  = ['frontend', 'backend'];
+i.love      = ['investing', 'learning', 'teaching'];
 ```
 
-<p>
-  Looking for an opportunity to develop myself professionally. Passionate about
-  finance, technology and programming. I hope to be able to establish an
-  integration between programming and investing.
-</p>
-<p>
-  Specifically curious about
-  investing, I seek knowledge from references in this area.
-</p>
+Passionate about technology, finance and investments, I seek knowledge from references in these areas.
+  
+I'm curious and always looking for opportunities that take me out of my comfort zone and develop myself personally and professionally.
 
-<hr />
+---
 
 <h2>
   <a href="https://github.com/gugadolzan#-language-and-tools">
@@ -51,17 +43,17 @@
 </h2>
 
 <div align="center">
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp">
-    <img
-      alt="C# badge"
-      src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"
-      width="40px"
-    />
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img
       alt="CSS3 badge"
       src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/css3/css3-original.svg"
+      width="40px"
+    />
+  </a>
+  <a href="https://www.docker.com/">
+    <img
+      alt="Docker badge"
+      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original.svg"
       width="40px"
     />
   </a>
@@ -83,6 +75,13 @@
     <img
       alt="Javascript badge"
       src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg"
+      width="40px"
+    />
+  </a>
+  <a href="https://www.mysql.com/">
+    <img
+      alt="MySQL badge"
+      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original.svg"
       width="40px"
     />
   </a>
@@ -132,7 +131,7 @@
 
 <br />
 
-<i> Disclaimer: 'Most Used Languages' does not indicate my skill level or anything like that, it's just a metric of which languages I have the most code on GitHub. Powered by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats). </i>
+*Disclaimer: 'Most Used Languages' does not indicate my skill level or anything like that, it's just a metric of which languages I have the most code on GitHub. Powered by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats).*
 
 <hr />
 
@@ -150,19 +149,19 @@
   <a href="https://github.com/gugadolzan">
     <img
       alt="GitHub badge"
-      src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+      src="https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white"
     />
   </a>
   <a href="mailto:gudolzan@gmail.com">
     <img
       alt="Gmail badge"
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail&logoColor=white"
     />
   </a>
   <a href="https://www.linkedin.com/in/gustavo-dolzan/">
     <img
       alt="LinkedIn badge"
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=white"
     />
   </a>
 </div>
